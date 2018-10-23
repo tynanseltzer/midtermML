@@ -42,8 +42,7 @@ for state in states:
                 for j in range(min(2, len(my_df.index))):
                     s = sim(my_df.iloc[j][4], my_df.iloc[j][1], my_df.iloc[j][2], 2018)
                     toAdd.append(s[1])
-                    if j == 0:
-                        wins.append(s[1])
+
 
 candidates.loc[wins, "won"] = 1
 toAdd = set(toAdd)
