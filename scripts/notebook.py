@@ -1,8 +1,7 @@
 import pandas as pd
 aggregate = pd.read_csv("../data/Aggregated.csv", engine='python')
 match1 = pd.read_csv("../data/timetomatch2tynan.csv", header=None, engine='python')
-match2 = pd.read_csv("../data/house_district_forecast.csv", skiprows=64954, header=None, engine='python')
-
+match2 = pd.read_csv("../data/house_district_forecast.csv", skiprows=64954, nrows=1031, header=None, engine='python')
 from difflib import SequenceMatcher
 
 
@@ -16,7 +15,7 @@ def important(row):
 
             r = SequenceMatcher(None, row['Cand_Name'].lower(),
                                 check[0].lower()).ratio()
-            if r > .8:
+            if r > .6:
                 return True
     return False
 
@@ -28,7 +27,7 @@ def eimportant(row):
 
             r = SequenceMatcher(None, row['Cand_Name'].lower(),
                                 check[4].lower()).ratio()
-            if r > .25:
+            if r > .6:
                 return True
     return False
 
