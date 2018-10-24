@@ -40,7 +40,11 @@ for state in states:
                 my_df = match2.loc[(match2[1] == state) & (match2[2] == num)]
                 my_df = my_df.sort_values(by=8, axis='index', ascending=False)
                 for j in range(min(2, len(my_df.index))):
-                    s = sim(my_df.iloc[j][4], my_df.iloc[j][1], my_df.iloc[j][2], 2018)
+                    st = my_df.iloc[j][4]
+                    st = st.split()
+                    st.reverse()
+                    st = ', '.join(st)
+                    s = sim(st, my_df.iloc[j][1], my_df.iloc[j][2], 2018)
                     toAdd.append(s[1])
 
 
