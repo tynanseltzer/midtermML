@@ -9,6 +9,7 @@ Dates = {1998: '11/3/98', 1999: '11/2/99', 2000: '11/7/00', 2001: '11/6/01', 200
 grades = {'A+': 0, "A": 1, "A-": 2, "B+": 3, "B": 4, "B-": 5,
           "C+": 6, "C": 7, "C-": 8, "D+": 9, "D": 10, "D-": 11, "F": 12}
 
+generic = {2010: 6.8, 2010: -1.2, 2014: 5.7, 2016: 1.1, 2018: -7.3}
 statesD = {
         'AK': 'Alaska',
         'AL': 'Alabama',
@@ -161,5 +162,7 @@ for year in [2010, 2012, 2014, 2016, 2018]:
                 foob = my_df.iloc[0].append(my_df.iloc[1]).to_frame().T
                 foob.to_csv("../data/parties.csv", mode='a', header=False)
     print(year)
+
+
 
 
