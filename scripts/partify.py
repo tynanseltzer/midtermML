@@ -131,7 +131,7 @@ for year in [2010, 2012, 2014, 2016, 2018]:
                             'f', axis=1)
                         avg = ph["answers/0/pct"] - ph["answers/1/pct"]
                         for i, r in ph.iterrows():
-                            if r["answers/0/party"] == "Dem" or r["answers/1/party"] == "Rep":
+                            if r["answers/0/party"] == "Rep" or r["answers/1/party"] == "Dem":
                                 avg[i] *= -1
                         if len(ph.index) > 2:
 
@@ -152,15 +152,15 @@ for year in [2010, 2012, 2014, 2016, 2018]:
                 else:
                     if my_df.loc[my_df.index[0], "Cand_Party_Affiliation"] == "DEM" or my_df.loc[my_df.index[1], "Cand_Party_Affiliation"] == "REP":
                         my_df.loc[:, "polls"] = 0
-                        my_df.loc[my_df.index[0], "polls"] = (.5 - avg)
-                        t1 = my_df.iloc[0]
-                        my_df.loc[my_df.index[1], "polls"] = (.5 + avg)
-                        t2 = my_df.iloc[1]
-                    else:
-                        my_df.loc[:, "polls"] = 0
                         my_df.loc[my_df.index[0], "polls"] = (.5 + avg)
                         t1 = my_df.iloc[0]
                         my_df.loc[my_df.index[1], "polls"] = (.5 - avg)
+                        t2 = my_df.iloc[1]
+                    else:
+                        my_df.loc[:, "polls"] = 0
+                        my_df.loc[my_df.index[0], "polls"] = (.5 - avg)
+                        t1 = my_df.iloc[0]
+                        my_df.loc[my_df.index[1], "polls"] = (.5 + avg)
                         t2 = my_df.iloc[1]
                 foob = my_df.iloc[0].append(my_df.iloc[1]).to_frame().T
                 foob.to_csv("../data/parties.csv", mode='a', header=False)
