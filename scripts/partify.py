@@ -130,6 +130,9 @@ for year in [2010, 2012, 2014, 2016, 2018]:
                         ph.assign(f= ph["endDate"].apply(days, f = True)).sort_values('f').drop(
                             'f', axis=1)
                         avg = ph["answers/0/pct"] - ph["answers/1/pct"]
+                        for i, r in ph.iterrows():
+                            if r["answers/0/party"] == "Dem" or r["answers/1/party"] == "Rep":
+                                avg[i] *= -1
                         if len(ph.index) > 2:
 
                             avg = avg[:3].mean() / 200
