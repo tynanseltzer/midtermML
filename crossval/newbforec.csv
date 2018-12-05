@@ -1,0 +1,436 @@
+forecastdate,state,district,special,candidate,party,incumbent,model,win_probability,voteshare,p10_voteshare,p90_voteshare,won
+02-10-18,AK,0,,Don Young,R,TRUE,deluxe,0.8451,51.12,45.21,56.93,1
+02-10-18,AL,1,,Bradley Byrne,R,TRUE,deluxe,0.9998,65.3,60.48,70.05,1
+02-10-18,AL,2,,Martha Roby,R,TRUE,deluxe,0.988,59.41,54.41,64.41,1
+02-10-18,AL,3,,Mike Rogers,R,TRUE,deluxe,0.9989,62.82,58.12,67.57,1
+02-10-18,AL,4,,Robert B. Aderholt,R,TRUE,deluxe,1,77.02,72.11,81.9,1
+02-10-18,AL,5,,Mo Brooks,R,TRUE,deluxe,0.9992,63.92,59.04,68.78,1
+02-10-18,AL,6,,Gary Palmer,R,TRUE,deluxe,1,67.56,62.84,72.25,1
+02-10-18,AL,7,,Terri A. Sewell,D,TRUE,deluxe,1,100,100,100,1
+02-10-18,AR,1,,Rick Crawford,R,TRUE,deluxe,0.9995,62.88,57.72,67.97,1
+02-10-18,AR,2,,French Hill,R,TRUE,deluxe,0.8464,51.85,47.48,56.2,1
+02-10-18,AR,3,,Steve Womack,R,TRUE,deluxe,0.9991,61.53,56.58,66.35,1
+02-10-18,AR,4,,Bruce Westerman,R,TRUE,deluxe,0.9996,62.11,57.26,66.93,1
+02-10-18,AZ,1,,Tom O'Halleran,D,TRUE,deluxe,0.9081,55.32,50.2,60.4,1
+02-10-18,AZ,2,,Ann Kirkpatrick,D,FALSE,deluxe,0.9312,54.77,50.7,58.86,1
+02-10-18,AZ,3,,Raul Grijalva,D,TRUE,deluxe,0.9999,69.52,64.29,74.74,1
+02-10-18,AZ,4,,Paul A. Gosar,R,TRUE,deluxe,0.9998,63.45,58.4,68.46,1
+02-10-18,AZ,5,,Andy Biggs,R,TRUE,deluxe,0.9987,63.76,58.74,68.76,1
+02-10-18,AZ,6,,David Schweikert,R,TRUE,deluxe,0.9033,55.23,50.08,60.34,1
+02-10-18,AZ,7,,Ruben Gallego,D,TRUE,deluxe,0.9999,86.25,79.49,92.42,1
+02-10-18,AZ,8,,Debbie Lesko,R,TRUE,deluxe,0.8974,54.58,49.94,59.14,1
+02-10-18,AZ,9,,Greg Stanton,D,FALSE,deluxe,0.9954,60.81,55.96,65.71,1
+02-10-18,CA,1,,Doug LaMalfa,R,TRUE,deluxe,0.9389,56.63,51.21,62.03,1
+02-10-18,CA,2,,Jared Huffman,D,TRUE,deluxe,1,80.55,76.29,84.85,1
+02-10-18,CA,3,,John Garamendi,D,TRUE,deluxe,0.9992,64.55,59.68,69.4,1
+02-10-18,CA,4,,Tom McClintock,R,TRUE,deluxe,0.8811,54.73,49.58,59.82,1
+02-10-18,CA,5,,Mike Thompson,D,TRUE,deluxe,0.9996,80.21,72.78,87.26,1
+02-10-18,CA,6,,Doris O. Matsui,D,TRUE,deluxe,1,78.4,73.69,83.16,1
+02-10-18,CA,7,,Ami Bera,D,TRUE,deluxe,0.9907,58.3,54.09,62.51,1
+02-10-18,CA,8,,Paul Cook,R,TRUE,deluxe,0.9731,60.6,53.59,67.64,1
+02-10-18,CA,9,,Jerry McNerney,D,TRUE,deluxe,0.9991,63.83,59.01,68.71,1
+02-10-18,CA,10,,Josh Harder,D,FALSE,deluxe,0.6454,51.34,46.65,56.01,1
+02-10-18,CA,11,,Mark DeSaulnier,D,TRUE,deluxe,1,77.68,72.81,82.53,1
+02-10-18,CA,12,,Nancy Pelosi,D,TRUE,deluxe,1,90.56,86.78,94.35,1
+02-10-18,CA,13,,Barbara Lee,D,TRUE,deluxe,0.9999,89.92,83.94,95.19,1
+02-10-18,CA,14,,Jackie Speier,D,TRUE,deluxe,1,83.12,78.56,87.7,1
+02-10-18,CA,15,,Eric Swalwell,D,TRUE,deluxe,1,77.15,72.32,81.94,1
+02-10-18,CA,16,,Jim Costa,D,TRUE,deluxe,0.9881,59.19,54.22,64.14,1
+02-10-18,CA,17,,Ro Khanna,D,TRUE,deluxe,1,79.8,74.27,85.36,1
+02-10-18,CA,18,,Anna G. Eshoo,D,TRUE,deluxe,1,78.29,73.11,83.49,1
+02-10-18,CA,19,,Zoe Lofgren,D,TRUE,deluxe,1,86.09,81.98,90.19,1
+02-10-18,CA,20,,Jimmy Panetta,D,TRUE,deluxe,0.9991,76.68,69.07,84.01,1
+02-10-18,CA,21,,David Valadao,R,TRUE,deluxe,0.8506,54.11,49.04,59.18,1
+02-10-18,CA,22,,Devin Nunes,R,TRUE,deluxe,0.9854,57.41,53.27,61.58,1
+02-10-18,CA,23,,Kevin McCarthy,R,TRUE,deluxe,0.9994,64.57,59.63,69.54,1
+02-10-18,CA,24,,Salud Carbajal,D,TRUE,deluxe,0.9871,58.86,54.1,63.64,1
+02-10-18,CA,25,,Katie Hill,D,FALSE,deluxe,0.6537,51.34,46.94,55.83,1
+02-10-18,CA,26,,Julia Brownley,D,TRUE,deluxe,0.9997,67.13,61.99,72.21,1
+02-10-18,CA,27,,Judy Chu,D,TRUE,deluxe,1,75.48,70.4,80.58,1
+02-10-18,CA,28,,Adam Schiff,D,TRUE,deluxe,1,81.5,77.2,85.82,1
+02-10-18,CA,29,,Tony Cárdenas,D,TRUE,deluxe,1,80.7,75.51,85.91,1
+02-10-18,CA,30,,Brad Sherman,D,TRUE,deluxe,1,76.79,72.15,81.57,1
+02-10-18,CA,31,,Pete Aguilar,D,TRUE,deluxe,0.9984,62.98,58.04,67.92,1
+02-10-18,CA,32,,Grace Napolitano,D,TRUE,deluxe,1,81.92,77.45,86.41,1
+02-10-18,CA,33,,Ted Lieu,D,TRUE,deluxe,1,73.43,68.11,78.82,1
+02-10-18,CA,34,,Jimmy Gomez,D,TRUE,deluxe,0.9997,81.58,74.22,88.45,1
+02-10-18,CA,35,,Norma Torres,D,TRUE,deluxe,1,73.67,68.7,78.69,1
+02-10-18,CA,36,,Raul Ruiz,D,TRUE,deluxe,0.9979,62.44,57.52,67.36,1
+02-10-18,CA,37,,Karen Bass,D,TRUE,deluxe,1,90.19,86.65,93.77,1
+02-10-18,CA,38,,Linda Sánchez,D,TRUE,deluxe,1,71.69,66.8,76.64,1
+02-10-18,CA,39,,Gil Cisneros,D,FALSE,deluxe,0.5295,50.24,45.63,54.86,1
+02-10-18,CA,40,,Lucille Roybal-Allard,D,TRUE,deluxe,0.9994,77.14,69.55,84.45,1
+02-10-18,CA,41,,Mark Takano,D,TRUE,deluxe,0.9998,67.52,62.44,72.62,1
+02-10-18,CA,42,,Ken Calvert,R,TRUE,deluxe,0.9852,59.04,54.03,64.08,1
+02-10-18,CA,43,,Maxine Waters,D,TRUE,deluxe,1,79.58,74.65,84.57,1
+02-10-18,CA,44,,Nanette Diaz Barragán,D,TRUE,deluxe,1,72.64,67.2,78.13,1
+02-10-18,CA,45,,Katie Porter,D,FALSE,deluxe,0.6385,51.15,46.88,55.42,1
+02-10-18,CA,46,,J. Luis Correa,D,TRUE,deluxe,1,72.19,67.13,77.25,1
+02-10-18,CA,47,,Alan Lowenthal,D,TRUE,deluxe,0.9999,67.57,62.75,72.44,1
+02-10-18,CA,48,,Harley Rouda,D,FALSE,deluxe,0.6399,51.19,46.86,55.65,1
+02-10-18,CA,49,,Mike Levin,D,FALSE,deluxe,0.9125,54.41,50.26,58.59,1
+02-10-18,CA,50,,Duncan D. Hunter,R,TRUE,deluxe,0.8963,54.1,49.93,58.28,1
+02-10-18,CA,51,,Juan Vargas,D,TRUE,deluxe,1,73.9,68.57,79.29,1
+02-10-18,CA,52,,Scott Peters,D,TRUE,deluxe,0.9994,64.57,59.49,69.68,1
+02-10-18,CA,53,,Susan Davis,D,TRUE,deluxe,1,69.05,64.26,73.9,1
+02-10-18,CO,1,,Diana DeGette,D,TRUE,deluxe,1,70.89,65.74,75.95,1
+02-10-18,CO,2,,Joe Neguse,D,FALSE,deluxe,0.9993,62.29,56.92,67.65,1
+02-10-18,CO,3,,Scott Tipton,R,TRUE,deluxe,0.7938,51.13,45.58,56.62,1
+02-10-18,CO,4,,Ken Buck,R,TRUE,deluxe,0.9855,59.04,54.02,64.06,1
+02-10-18,CO,5,,Doug Lamborn,R,TRUE,deluxe,0.9885,59.58,54.52,64.62,1
+02-10-18,CO,6,,Jason Crow,D,FALSE,deluxe,0.8431,51.49,47.05,55.87,1
+02-10-18,CO,7,,Ed Perlmutter,D,TRUE,deluxe,0.9989,61.83,56.61,67.04,1
+02-10-18,CT,1,,John B. Larson,D,TRUE,deluxe,0.9999,66.69,61.69,71.65,1
+02-10-18,CT,2,,Joe Courtney,D,TRUE,deluxe,0.9997,64.16,59.14,69.09,1
+02-10-18,CT,3,,Rosa L. DeLauro,D,TRUE,deluxe,1,70.01,65.25,74.81,1
+02-10-18,CT,4,,Jim Himes,D,TRUE,deluxe,0.9995,64.62,59.64,69.67,1
+02-10-18,CT,5,,Jahana Hayes,D,FALSE,deluxe,0.9834,57.21,52.05,62.38,1
+02-10-18,DE,1,,Lisa Blunt Rochester,D,TRUE,deluxe,0.9984,61.94,57.42,66.49,1
+02-10-18,FL,1,,Matt Gaetz,R,TRUE,deluxe,1,70.21,65.39,74.94,1
+02-10-18,FL,2,,Neal Dunn,R,TRUE,deluxe,0.9998,66.63,61.66,71.6,1
+02-10-18,FL,3,,Ted Yoho,R,TRUE,deluxe,0.9918,60.15,55.16,65.12,1
+02-10-18,FL,4,,John Rutherford,R,TRUE,deluxe,0.9999,66.55,61.42,71.53,1
+02-10-18,FL,5,,Al Lawson,D,TRUE,deluxe,1,69.85,65.02,74.59,1
+02-10-18,FL,6,,Michael Waltz,R,FALSE,deluxe,0.8537,53.37,49.24,57.47,1
+02-10-18,FL,7,,Stephanie Murphy,D,TRUE,deluxe,0.9496,56.15,51.42,60.95,1
+02-10-18,FL,8,,Bill Posey,R,TRUE,deluxe,0.9912,59.95,54.98,64.91,1
+02-10-18,FL,9,,Darren Soto,D,TRUE,deluxe,0.9993,64.37,59.49,69.26,1
+02-10-18,FL,10,,Val Demings,D,TRUE,deluxe,1,100,100,100,1
+02-10-18,FL,11,,Daniel Webster,R,TRUE,deluxe,0.9995,65.37,60.31,70.45,1
+02-10-18,FL,12,,Gus M. Bilirakis,R,TRUE,deluxe,0.996,58.37,53.8,62.89,1
+02-10-18,FL,13,,Charlie Crist,D,TRUE,deluxe,0.9985,63.07,58.19,67.99,1
+02-10-18,FL,14,,Kathy Castor,D,TRUE,deluxe,1,100,100,100,1
+02-10-18,FL,15,,Ross Spano,R,FALSE,deluxe,0.7666,52.3,48.2,56.4,1
+02-10-18,FL,16,,Vern Buchanan,R,TRUE,deluxe,0.8781,53.6,49.63,57.57,1
+02-10-18,FL,17,,Greg Steube,R,FALSE,deluxe,0.9983,63.06,57.99,68.21,1
+02-10-18,FL,18,,Brian Mast,R,TRUE,deluxe,0.9153,54.67,50.33,58.99,1
+02-10-18,FL,19,,Francis Rooney,R,TRUE,deluxe,0.9961,59.9,55.52,64.3,1
+02-10-18,FL,20,,Alcee L. Hastings,D,TRUE,deluxe,1,100,100,100,1
+02-10-18,FL,21,,Lois Frankel,D,TRUE,deluxe,1,100,100,100,1
+02-10-18,FL,22,,Ted Deutch,D,TRUE,deluxe,0.9996,64.96,60.05,69.96,1
+02-10-18,FL,23,,Debbie Wasserman Schultz,D,TRUE,deluxe,0.9999,65.04,59.82,70.17,1
+02-10-18,FL,24,,Frederica Wilson,D,TRUE,deluxe,1,100,100,100,1
+02-10-18,FL,25,,Mario Diaz-Balart,R,TRUE,deluxe,0.8439,54.16,48.86,59.41,1
+02-10-18,FL,26,,Carlos Curbelo,R,TRUE,deluxe,0.6153,51.04,46.47,55.56,1
+02-10-18,FL,27,,Donna Shalala,D,FALSE,deluxe,0.8226,52.49,46.87,58.09,1
+02-10-18,GA,1,,Buddy Carter,R,TRUE,deluxe,0.9986,62.57,57.85,67.28,1
+02-10-18,GA,2,,Sanford D. Bishop Jr.,D,TRUE,deluxe,0.9996,64.64,59.75,69.54,1
+02-10-18,GA,3,,A. Drew Ferguson,R,TRUE,deluxe,1,67.78,63.07,72.55,1
+02-10-18,GA,4,,Hank Johnson,D,TRUE,deluxe,1,74.68,69.94,79.43,1
+02-10-18,GA,5,,John Lewis,D,TRUE,deluxe,1,100,100,100,1
+02-10-18,GA,6,,Karen C. Handel,R,TRUE,deluxe,0.8877,54.29,49.77,58.75,1
+02-10-18,GA,7,,Rob Woodall,R,TRUE,deluxe,0.7964,52.75,48.46,57.02,1
+02-10-18,GA,8,,Austin Scott,R,TRUE,deluxe,1,100,100,100,1
+02-10-18,GA,9,,Doug Collins,R,TRUE,deluxe,1,79.41,74.73,84.1,1
+02-10-18,GA,10,,Jody Hice,R,TRUE,deluxe,0.9999,67.57,62.89,72.24,1
+02-10-18,GA,11,,Barry Loudermilk,R,TRUE,deluxe,0.9996,65.8,60.94,70.64,1
+02-10-18,GA,12,,Rick Allen,R,TRUE,deluxe,0.9917,59.94,54.93,64.96,1
+02-10-18,GA,13,,David Scott,D,TRUE,deluxe,1,72.6,67.86,77.39,1
+02-10-18,GA,14,,Tom Graves,R,TRUE,deluxe,1,79.88,75.35,84.43,1
+02-10-18,HI,1,,Ed Case,D,FALSE,deluxe,1,69.44,63.54,75.3,1
+02-10-18,HI,2,,Tulsi Gabbard,D,TRUE,deluxe,1,79.12,74.16,84.1,1
+02-10-18,IA,1,,Abby Finkenauer,D,FALSE,deluxe,0.9535,54.36,49.8,58.93,1
+02-10-18,IA,2,,David Loebsack,D,TRUE,deluxe,0.9935,57.55,52.69,62.37,1
+02-10-18,IA,3,,Cindy Axne,D,FALSE,deluxe,0.5568,48.37,43.77,52.9,1
+02-10-18,IA,4,,Steve King,R,TRUE,deluxe,0.9174,52.87,47.99,57.66,1
+02-10-18,ID,1,,Russ Fulcher,R,FALSE,deluxe,0.9963,58.09,51.4,64.75,1
+02-10-18,ID,2,,Mike Simpson,R,TRUE,deluxe,0.9989,63.76,58.61,68.8,1
+02-10-18,IL,1,,Bobby L. Rush,D,TRUE,deluxe,1,71.81,66.71,76.9,1
+02-10-18,IL,2,,Robin Kelly,D,TRUE,deluxe,1,81.53,76.85,86.11,1
+02-10-18,IL,3,,Daniel Lipinski,D,TRUE,deluxe,0.9999,68.19,63.4,73.02,1
+02-10-18,IL,4,,"Jesus ""Chuy"" Garcia",D,FALSE,deluxe,1,85.49,80.93,90.05,1
+02-10-18,IL,5,,Mike Quigley,D,TRUE,deluxe,1,75.05,70.11,80.04,1
+02-10-18,IL,6,,Peter J. Roskam,R,TRUE,deluxe,0.592,50.78,46.26,55.3,1
+02-10-18,IL,7,,Danny K. Davis,D,TRUE,deluxe,1,84.81,80.43,89.2,1
+02-10-18,IL,8,,Raja Krishnamoorthi,D,TRUE,deluxe,0.9998,67.52,62.41,72.6,1
+02-10-18,IL,9,,Jan Schakowsky,D,TRUE,deluxe,1,73.09,68.23,78.01,1
+02-10-18,IL,10,,Bradley Schneider,D,TRUE,deluxe,0.9999,66.78,61.81,71.82,1
+02-10-18,IL,11,,Bill Foster,D,TRUE,deluxe,0.9999,67.67,62.68,72.64,1
+02-10-18,IL,12,,Mike Bost,R,TRUE,deluxe,0.5851,49.13,44.51,53.66,1
+02-10-18,IL,13,,Rodney Davis,R,TRUE,deluxe,0.742,52.13,47.89,56.36,1
+02-10-18,IL,14,,Randy Hultgren,R,TRUE,deluxe,0.786,52.72,48.27,57.16,1
+02-10-18,IL,15,,John Shimkus,R,TRUE,deluxe,1,68.8,63.63,73.94,1
+02-10-18,IL,16,,Adam Kinzinger,R,TRUE,deluxe,0.989,59.71,54.66,64.64,1
+02-10-18,IL,17,,Cheri Bustos,D,TRUE,deluxe,0.9996,65.03,60.26,69.88,1
+02-10-18,IL,18,,Darin LaHood,R,TRUE,deluxe,0.9999,67.29,62.51,72.08,1
+02-10-18,IN,1,,Peter Visclosky,D,TRUE,deluxe,0.9999,68.89,64.09,73.79,1
+02-10-18,IN,2,,Jackie Walorski,R,TRUE,deluxe,0.9422,56.28,51.22,61.34,1
+02-10-18,IN,3,,Jim Banks,R,TRUE,deluxe,0.998,61.59,57.02,66.11,1
+02-10-18,IN,4,,Jim Baird,R,FALSE,deluxe,0.9965,61.18,56.32,66.03,1
+02-10-18,IN,5,,Susan W. Brooks,R,TRUE,deluxe,0.994,60.07,55.41,64.76,1
+02-10-18,IN,6,,Greg Pence,R,FALSE,deluxe,0.9997,63.53,58.27,68.73,1
+02-10-18,IN,7,,André Carson,D,TRUE,deluxe,1,68.62,63.83,73.36,1
+02-10-18,IN,8,,Larry Bucshon,R,TRUE,deluxe,0.9963,61.2,56.27,66.07,1
+02-10-18,IN,9,,Trey Hollingsworth,R,TRUE,deluxe,0.912,55.37,50.3,60.34,1
+02-10-18,KS,1,,Roger Marshall,R,TRUE,deluxe,0.9996,67.33,62.08,72.59,1
+02-10-18,KS,2,,Paul Davis,D,FALSE,deluxe,0.5215,47.94,43.31,52.53,1
+02-10-18,KS,3,,Sharice Davids,D,FALSE,deluxe,0.5669,49.06,44.46,53.69,1
+02-10-18,KS,4,,Ron Estes,R,TRUE,deluxe,0.9914,58.85,54.35,63.31,1
+02-10-18,KY,1,,James Comer,R,TRUE,deluxe,0.9999,68.26,63.27,73.26,1
+02-10-18,KY,2,,Brett S. Guthrie,R,TRUE,deluxe,0.9993,62.5,57.5,67.49,1
+02-10-18,KY,3,,John A. Yarmuth,D,TRUE,deluxe,0.9978,60.36,55.39,65.21,1
+02-10-18,KY,4,,Thomas Massie,R,TRUE,deluxe,0.9995,63.2,58.21,68.1,1
+02-10-18,KY,5,,Harold Rogers,R,TRUE,deluxe,1,74.54,69.07,80.06,1
+02-10-18,KY,6,,Andy Barr,R,TRUE,deluxe,0.5424,48.83,44.66,52.92,1
+02-10-18,LA,1,,Steve Scalise,R,TRUE,deluxe,1,68.57,60.68,77.08,1
+02-10-18,LA,2,,Cedric Richmond,D,TRUE,deluxe,1,84.78,77.76,91.28,1
+02-10-18,LA,3,,Clay Higgins,R,TRUE,deluxe,0.9948,55.09,47.39,63.53,1
+02-10-18,LA,4,,Mike Johnson,R,TRUE,deluxe,0.999,62.1,56.92,67.29,1
+02-10-18,LA,5,,Ralph Abraham,R,TRUE,deluxe,0.9998,63.57,58.43,68.64,1
+02-10-18,LA,6,,Garrett Graves,R,TRUE,deluxe,0.9998,65.23,57.52,73.66,1
+02-10-18,MA,1,,Richard E. Neal,D,TRUE,deluxe,1,100,100,100,1
+02-10-18,MA,2,,James McGovern,D,TRUE,deluxe,1,70.7,65.71,75.68,1
+02-10-18,MA,3,,Lori Trahan,D,FALSE,deluxe,0.9995,63.91,58.48,69.26,1
+02-10-18,MA,4,,Joseph P. Kennedy III,D,TRUE,deluxe,1,100,100,100,1
+02-10-18,MA,5,,Katherine Clark,D,TRUE,deluxe,1,76.43,71.36,81.5,1
+02-10-18,MA,6,,Seth Moulton,D,TRUE,deluxe,0.9999,67.32,61.85,72.78,1
+02-10-18,MA,7,,Ayanna Pressley,D,FALSE,deluxe,1,100,100,100,1
+02-10-18,MA,8,,Stephen F. Lynch,D,TRUE,deluxe,1,100,100,100,1
+02-10-18,MA,9,,William Keating,D,TRUE,deluxe,0.9967,62.17,57.02,67.45,1
+02-10-18,MD,1,,Andy Harris,R,TRUE,deluxe,0.9953,59.55,54.23,64.76,1
+02-10-18,MD,2,,C. A. Dutch Ruppersberger,D,TRUE,deluxe,0.9999,67.04,61.91,72.13,1
+02-10-18,MD,3,,John P. Sarbanes,D,TRUE,deluxe,1,68.01,62.89,73.08,1
+02-10-18,MD,4,,Anthony Brown,D,TRUE,deluxe,1,77.86,73,82.74,1
+02-10-18,MD,5,,Steny H. Hoyer,D,TRUE,deluxe,1,70.27,65.31,75.2,1
+02-10-18,MD,6,,David Trone,D,FALSE,deluxe,0.996,58.99,53.85,64.14,1
+02-10-18,MD,7,,Elijah Cummings,D,TRUE,deluxe,1,76.68,71.79,81.52,1
+02-10-18,MD,8,,Jamie Raskin,D,TRUE,deluxe,1,68.81,63.74,73.9,1
+02-10-18,ME,1,,Chellie Pingree,D,TRUE,deluxe,0.9983,61.7,56.35,67.07,1
+02-10-18,ME,2,,Bruce Poliquin,R,TRUE,deluxe,0.5736,48.98,44.25,53.66,1
+02-10-18,MI,1,,Jack Bergman,R,TRUE,deluxe,0.8992,55.28,49.98,60.58,1
+02-10-18,MI,2,,Bill Huizenga,R,TRUE,deluxe,0.9788,56.77,51.56,61.98,1
+02-10-18,MI,3,,Justin Amash,R,TRUE,deluxe,0.9903,58.13,53.04,63.16,1
+02-10-18,MI,4,,John Moolenaar,R,TRUE,deluxe,0.9979,62.86,57.74,67.96,1
+02-10-18,MI,5,,Daniel Kildee,D,TRUE,deluxe,0.9996,64.39,59.09,69.67,1
+02-10-18,MI,6,,Fred Upton,R,TRUE,deluxe,0.9074,53.05,48.64,57.4,1
+02-10-18,MI,7,,Tim Walberg,R,TRUE,deluxe,0.7586,52.7,47.67,57.63,1
+02-10-18,MI,8,,Elissa Slotkin,D,FALSE,deluxe,0.5469,48.85,44.47,53.19,1
+02-10-18,MI,9,,Andy Levin,D,FALSE,deluxe,0.9966,59.57,54.39,64.77,1
+02-10-18,MI,10,,Paul Mitchell,R,TRUE,deluxe,0.9988,62.06,56.83,67.3,1
+02-10-18,MI,11,,Haley Stevens,D,FALSE,deluxe,0.7753,50.9,45.56,56.23,1
+02-10-18,MI,12,,Debbie Dingell,D,TRUE,deluxe,0.9999,68.94,63.89,73.9,1
+02-10-18,MI,13,,Rashida Tlaib,D,FALSE,deluxe,1,85.33,78.4,91.69,1
+02-10-18,MI,14,,Brenda Lawrence,D,TRUE,deluxe,1,79.41,74.47,84.36,1
+02-10-18,MN,1,,Jim Hagedorn,R,FALSE,deluxe,0.5932,50.92,46.02,55.81,1
+02-10-18,MN,2,,Angie Craig,D,FALSE,deluxe,0.8279,52.89,48.94,56.85,1
+02-10-18,MN,3,,Dean Phillips,D,FALSE,deluxe,0.8512,53.41,49.17,57.65,1
+02-10-18,MN,4,,Betty McCollum,D,TRUE,deluxe,0.9999,67.27,62.08,72.45,1
+02-10-18,MN,5,,Ilhan Omar,D,FALSE,deluxe,1,80.66,76.07,85.33,1
+02-10-18,MN,6,,Tom Emmer,R,TRUE,deluxe,0.999,63.45,58.67,68.28,1
+02-10-18,MN,7,,Collin C. Peterson,D,TRUE,deluxe,0.9296,56.19,50.84,61.59,1
+02-10-18,MN,8,,Pete Stauber,R,FALSE,deluxe,0.5354,48.32,43.52,53.09,1
+02-10-18,MO,1,,"William ""Lacy"" Clay Jr.",D,TRUE,deluxe,1,76.53,71.43,81.59,1
+02-10-18,MO,2,,Ann Wagner,R,TRUE,deluxe,0.9306,53.34,48.82,57.88,1
+02-10-18,MO,3,,Blaine Luetkemeyer,R,TRUE,deluxe,0.9999,66.05,61.01,71.06,1
+02-10-18,MO,4,,Vicky Hartzler,R,TRUE,deluxe,0.9995,62.56,57.64,67.37,1
+02-10-18,MO,5,,Emanuel Cleaver,D,TRUE,deluxe,0.9995,62.83,57.71,67.91,1
+02-10-18,MO,6,,Sam Graves,R,TRUE,deluxe,0.9998,64.26,59.14,69.34,1
+02-10-18,MO,7,,Billy Long,R,TRUE,deluxe,1,67.72,62.76,72.66,1
+02-10-18,MO,8,,Jason Smith,R,TRUE,deluxe,1,69.1,63.56,74.58,1
+02-10-18,MS,1,,Trent Kelly,R,TRUE,deluxe,0.9991,61.34,56.6,66.06,1
+02-10-18,MS,2,,Bennie G. Thompson,D,TRUE,deluxe,1,75.32,70.31,80.27,1
+02-10-18,MS,3,,Michael Guest,R,FALSE,deluxe,0.9966,58.94,54.02,63.75,1
+02-10-18,MS,4,,Steven Palazzo,R,TRUE,deluxe,0.9955,59.46,54.4,64.48,1
+02-10-18,MT,1,,Greg Gianforte,R,TRUE,deluxe,0.8153,51.32,46.76,55.82,1
+02-10-18,NC,1,,G.K. Butterfield,D,TRUE,deluxe,1,71.92,67.1,76.78,1
+02-10-18,NC,2,,George Holding,R,TRUE,deluxe,0.6882,50.3,45.79,54.81,1
+02-10-18,NC,3,,Walter B. Jones,R,TRUE,deluxe,1,100,100,100,1
+02-10-18,NC,4,,David Price,D,TRUE,deluxe,1,74.19,69.36,79.08,1
+02-10-18,NC,5,,Virginia Foxx,R,TRUE,deluxe,0.9797,58.53,53.39,63.64,1
+02-10-18,NC,6,,Mark Walker,R,TRUE,deluxe,0.9333,56.27,50.98,61.52,1
+02-10-18,NC,7,,David Rouzer,R,TRUE,deluxe,0.9523,55.09,49.93,60.16,1
+02-10-18,NC,8,,Richard Hudson,R,TRUE,deluxe,0.9234,55.54,50.61,60.47,1
+02-10-18,NC,9,,Dan McCready,D,FALSE,deluxe,0.5191,48.47,44.06,52.79,1
+02-10-18,NC,10,,Patrick T. McHenry,R,TRUE,deluxe,0.9982,62.5,57.72,67.33,1
+02-10-18,NC,11,,Mark Meadows,R,TRUE,deluxe,0.997,60.56,55.39,65.64,1
+02-10-18,NC,12,,Alma Adams,D,TRUE,deluxe,1,70.82,66.01,75.6,1
+02-10-18,NC,13,,Ted Budd,R,TRUE,deluxe,0.572,48.91,44.31,53.46,1
+02-10-18,ND,1,,Kelly Armstrong,R,FALSE,deluxe,0.9958,57.62,52.74,62.44,1
+02-10-18,NE,1,,Jeff Fortenberry,R,TRUE,deluxe,0.9992,63.8,58.91,68.68,1
+02-10-18,NE,2,,Don Bacon,R,TRUE,deluxe,0.693,51.8,47.19,56.39,1
+02-10-18,NE,3,,Adrian Smith,R,TRUE,deluxe,0.9999,71.79,66.81,76.75,1
+02-10-18,NH,1,,Chris Pappas,D,FALSE,deluxe,0.9161,53.5,48.18,58.83,1
+02-10-18,NH,2,,Ann Kuster,D,TRUE,deluxe,0.9967,59.16,54.04,64.23,1
+02-10-18,NJ,1,,Donald Norcross,D,TRUE,deluxe,0.9999,67.17,62.07,72.22,1
+02-10-18,NJ,2,,Jeff Van Drew,D,FALSE,deluxe,0.973,55.58,50.33,60.78,1
+02-10-18,NJ,3,,Andy Kim,D,FALSE,deluxe,0.6627,50.08,45.55,54.58,1
+02-10-18,NJ,4,,Chris Smith,R,TRUE,deluxe,0.9754,56.09,50.69,61.4,1
+02-10-18,NJ,5,,Josh Gottheimer,D,TRUE,deluxe,0.9661,56.38,50.62,62.07,1
+02-10-18,NJ,6,,Frank Pallone Jr.,D,TRUE,deluxe,0.9998,68.14,63.21,73.08,1
+02-10-18,NJ,7,,Tom Malinowski,D,FALSE,deluxe,0.5592,49.05,44.43,53.73,1
+02-10-18,NJ,8,,Albio Sires,D,TRUE,deluxe,1,77,71.84,82.21,1
+02-10-18,NJ,9,,Bill Pascrell Jr.,D,TRUE,deluxe,1,71.72,66.56,76.89,1
+02-10-18,NJ,10,,Donald Payne Jr.,D,TRUE,deluxe,1,83.72,78.96,88.47,1
+02-10-18,NJ,11,,Mikie Sherrill,D,FALSE,deluxe,0.7956,51.39,46.35,56.39,1
+02-10-18,NJ,12,,Bonnie Watson Coleman,D,TRUE,deluxe,1,71.38,66.56,76.26,1
+02-10-18,NM,1,,Debra A. Haaland,D,FALSE,deluxe,0.9902,56.84,51.68,62,1
+02-10-18,NM,2,,Yvette Herrell,R,FALSE,deluxe,0.6252,51.06,46.7,55.4,1
+02-10-18,NM,3,,Ben R. Lujan,D,TRUE,deluxe,0.9999,63.77,59.17,68.29,1
+02-10-18,NV,1,,Dina Titus,D,TRUE,deluxe,0.9999,67.93,62.47,73.35,1
+02-10-18,NV,2,,Mark Amodei,R,TRUE,deluxe,0.993,60.19,55.25,65.06,1
+02-10-18,NV,3,,Susie Lee,D,FALSE,deluxe,0.7523,49.94,44.72,55.14,1
+02-10-18,NV,4,,Steven A. Horsford,D,FALSE,deluxe,0.8965,52.08,46.92,57.1,1
+02-10-18,NY,1,,Lee Zeldin,R,TRUE,deluxe,0.9207,53.73,48.93,58.49,1
+02-10-18,NY,2,,Pete King,R,TRUE,deluxe,0.9179,54.37,48.92,59.8,1
+02-10-18,NY,3,,Thomas Suozzi,D,TRUE,deluxe,0.9963,61.73,56.49,66.96,1
+02-10-18,NY,4,,Kathleen Rice,D,TRUE,deluxe,0.9996,65.39,60.24,70.52,1
+02-10-18,NY,5,,Gregory W. Meeks,D,TRUE,deluxe,1,100,100,100,1
+02-10-18,NY,6,,Grace Meng,D,TRUE,deluxe,0.9998,84.07,76.93,90.67,1
+02-10-18,NY,7,,Nydia M. Velázquez,D,TRUE,deluxe,1,89.52,83.42,94.89,1
+02-10-18,NY,8,,Hakeem Jeffries,D,TRUE,deluxe,1,89.05,82.84,94.57,1
+02-10-18,NY,9,,Yvette D. Clarke,D,TRUE,deluxe,1,83.42,78.77,88.11,1
+02-10-18,NY,10,,Jerrold Nadler,D,TRUE,deluxe,1,80.42,75.31,85.51,1
+02-10-18,NY,11,,Daniel Donovan,R,TRUE,deluxe,0.809,52.18,46.76,57.51,1
+02-10-18,NY,12,,Carolyn Maloney,D,TRUE,deluxe,1,82.14,76.73,87.62,1
+02-10-18,NY,13,,Adriano Espaillat,D,TRUE,deluxe,1,92.91,89.67,96.13,1
+02-10-18,NY,14,,Alexandria Ocasio-Cortez,D,FALSE,deluxe,1,79.56,74.68,84.5,1
+02-10-18,NY,15,,José E. Serrano,D,TRUE,deluxe,1,95.24,92.57,97.94,1
+02-10-18,NY,16,,Eliot Engel,D,TRUE,deluxe,1,100,100,100,1
+02-10-18,NY,17,,Nita Lowey,D,TRUE,deluxe,0.9997,80.89,73.54,87.88,1
+02-10-18,NY,18,,Sean Patrick Maloney,D,TRUE,deluxe,0.9916,59.89,54.97,64.89,1
+02-10-18,NY,19,,Antonio Delgado,D,FALSE,deluxe,0.5537,48.79,44.35,53.21,1
+02-10-18,NY,20,,Paul D. Tonko,D,TRUE,deluxe,0.9999,68.84,63.97,73.68,1
+02-10-18,NY,21,,Elise Stefanik,R,TRUE,deluxe,0.9721,56.69,51.1,62.23,1
+02-10-18,NY,22,,Anthony Brindisi,D,FALSE,deluxe,0.65,51.26,47.09,55.42,1
+02-10-18,NY,23,,Tom Reed,R,TRUE,deluxe,0.9762,58.11,53.04,63.1,1
+02-10-18,NY,24,,John Katko,R,TRUE,deluxe,0.901,54.14,50.02,58.22,1
+02-10-18,NY,25,,Joseph D. Morelle,D,FALSE,deluxe,0.9996,62.81,58.55,67.06,1
+02-10-18,NY,26,,Brian Higgins,D,TRUE,deluxe,1,73.19,68.45,78,1
+02-10-18,NY,27,,Chris Collins,R,TRUE,deluxe,0.9012,53.85,48.43,59.24,1
+02-10-18,OH,1,,Steve Chabot,R,TRUE,deluxe,0.6097,49.54,44.99,54.01,1
+02-10-18,OH,2,,Brad Wenstrup,R,TRUE,deluxe,0.9785,56.91,51.68,62.17,1
+02-10-18,OH,3,,Joyce Beatty,D,TRUE,deluxe,1,73.25,68.52,78.04,1
+02-10-18,OH,4,,Jim Jordan,R,TRUE,deluxe,0.9828,58.92,53.73,64.08,1
+02-10-18,OH,5,,Robert E. Latta,R,TRUE,deluxe,0.9981,61.13,55.98,66.18,1
+02-10-18,OH,6,,Bill Johnson,R,TRUE,deluxe,0.9999,68.43,63.35,73.49,1
+02-10-18,OH,7,,Bob Gibbs,R,TRUE,deluxe,0.9543,56.92,51.75,62.07,1
+02-10-18,OH,8,,Warren Davidson,R,TRUE,deluxe,0.9997,66.96,62.07,71.92,1
+02-10-18,OH,9,,Marcy Kaptur,D,TRUE,deluxe,1,69.7,64.94,74.51,1
+02-10-18,OH,10,,Michael Turner,R,TRUE,deluxe,0.9593,55.19,50.23,60.13,1
+02-10-18,OH,11,,Marcia L. Fudge,D,TRUE,deluxe,1,80.87,76.07,85.65,1
+02-10-18,OH,12,,Troy Balderson,R,TRUE,deluxe,0.7116,50.44,46.03,54.83,1
+02-10-18,OH,13,,Tim Ryan,D,TRUE,deluxe,0.9998,68.28,63.51,73.05,1
+02-10-18,OH,14,,David Joyce,R,TRUE,deluxe,0.8596,54.05,49.23,58.89,1
+02-10-18,OH,15,,Steve Stivers,R,TRUE,deluxe,0.9846,56.99,51.98,61.95,1
+02-10-18,OH,16,,Anthony Gonzalez,R,FALSE,deluxe,0.9782,58.34,53.26,63.41,1
+02-10-18,OK,1,,Kevin Hern,R,FALSE,deluxe,0.9989,61.17,56.97,65.33,1
+02-10-18,OK,2,,Markwayne Mullin,R,TRUE,deluxe,0.9984,62.26,56.46,67.91,1
+02-10-18,OK,3,,Frank Lucas,R,TRUE,deluxe,0.9999,69.97,64.67,75.28,1
+02-10-18,OK,4,,Tom Cole,R,TRUE,deluxe,0.9999,65.67,61.02,70.28,1
+02-10-18,OK,5,,Steve Russell,R,TRUE,deluxe,0.9427,55.48,51.1,59.87,1
+02-10-18,OR,1,,Suzanne Bonamici,D,TRUE,deluxe,0.9999,64.87,59.73,69.99,1
+02-10-18,OR,2,,Greg Walden,R,TRUE,deluxe,0.9984,60.95,55.49,66.31,1
+02-10-18,OR,3,,Earl Blumenauer,D,TRUE,deluxe,1,83.1,75.77,89.87,1
+02-10-18,OR,4,,Peter DeFazio,D,TRUE,deluxe,0.9959,59.16,54,64.25,1
+02-10-18,OR,5,,Kurt Schrader,D,TRUE,deluxe,0.998,60.36,55.18,65.53,1
+02-10-18,PA,1,,Brian Fitzpatrick,R,TRUE,deluxe,0.6612,51.41,46.99,55.84,1
+02-10-18,PA,2,,Brendan Boyle,D,TRUE,deluxe,1,78.84,74.15,83.55,1
+02-10-18,PA,3,,Dwight Evans,D,TRUE,deluxe,1,92.48,89.36,95.63,1
+02-10-18,PA,4,,Madeleine Dean,D,FALSE,deluxe,0.9986,63.08,58.16,68.06,1
+02-10-18,PA,5,,Mary Gay Scanlon,D,FALSE,deluxe,0.9995,65.98,60.81,71.17,1
+02-10-18,PA,6,,Chrissy Houlahan,D,FALSE,deluxe,0.9807,58.36,53.38,63.32,1
+02-10-18,PA,7,,Susan Wild,D,FALSE,deluxe,0.9268,53.49,48.98,58.03,1
+02-10-18,PA,8,,Matt Cartwright,D,TRUE,deluxe,0.8874,54.6,49.72,59.53,1
+02-10-18,PA,9,,Dan Meuser,R,FALSE,deluxe,0.9951,61.23,56.2,66.23,1
+02-10-18,PA,10,,Scott Perry,R,TRUE,deluxe,0.8227,53.05,48.81,57.27,1
+02-10-18,PA,11,,Lloyd Smucker,R,TRUE,deluxe,0.9813,57.69,53.14,62.23,1
+02-10-18,PA,12,,Tom Marino,R,TRUE,deluxe,0.9998,66.67,61.69,71.63,1
+02-10-18,PA,13,,John Joyce,R,FALSE,deluxe,1,69.19,64.23,74.16,1
+02-10-18,PA,14,,Guy Reschenthaler,R,FALSE,deluxe,0.9876,59.27,54.18,64.33,1
+02-10-18,PA,15,,Glenn W. Thompson,R,TRUE,deluxe,1,71.48,66.42,76.62,1
+02-10-18,PA,16,,Mike Kelly,R,TRUE,deluxe,0.9503,54.67,50.06,59.15,1
+02-10-18,PA,17,,Conor Lamb,D,TRUE,deluxe,0.8916,54.18,49.83,58.53,1
+02-10-18,PA,18,,Mike Doyle,D,TRUE,deluxe,1,100,100,100,1
+02-10-18,RI,1,,David Cicilline,D,TRUE,deluxe,1,71.32,66.25,76.46,1
+02-10-18,RI,2,,Jim Langevin,D,TRUE,deluxe,0.9998,68.66,63.64,73.7,1
+02-10-18,SC,1,,Katie Arrington,R,FALSE,deluxe,0.9324,54.94,50.73,59.11,1
+02-10-18,SC,2,,Joe Wilson,R,TRUE,deluxe,0.9955,59.78,54.59,64.84,1
+02-10-18,SC,3,,Jeff Duncan,R,TRUE,deluxe,0.9995,62.7,57.58,67.78,1
+02-10-18,SC,4,,William Timmons,R,FALSE,deluxe,0.9998,65.37,60.3,70.45,1
+02-10-18,SC,5,,Ralph Norman,R,TRUE,deluxe,0.9865,57.42,52.34,62.45,1
+02-10-18,SC,6,,James E. Clyburn,D,TRUE,deluxe,1,71.53,66.37,76.67,1
+02-10-18,SC,7,,Tom Rice,R,TRUE,deluxe,0.994,60.36,55.5,65.23,1
+02-10-18,SD,1,,Dusty Johnson,R,FALSE,deluxe,0.9922,56.76,51.83,61.61,1
+02-10-18,TN,1,,Phil Roe,R,TRUE,deluxe,1,73.58,68.39,78.73,1
+02-10-18,TN,2,,Tim Burchett,R,FALSE,deluxe,0.9999,64.58,59.44,69.64,1
+02-10-18,TN,3,,Chuck Fleischmann,R,TRUE,deluxe,0.9992,63.44,58.19,68.61,1
+02-10-18,TN,4,,Scott DesJarlais,R,TRUE,deluxe,0.9967,59.85,54.68,64.99,1
+02-10-18,TN,5,,Jim Cooper,D,TRUE,deluxe,1,67.45,62.81,72.1,1
+02-10-18,TN,6,,John Rose,R,FALSE,deluxe,1,69.38,64.08,74.59,1
+02-10-18,TN,7,,Mark E. Green,R,FALSE,deluxe,0.9999,65.41,60.12,70.57,1
+02-10-18,TN,8,,David Kustoff,R,TRUE,deluxe,0.9999,68.15,62.99,73.21,1
+02-10-18,TN,9,,Steve Cohen,D,TRUE,deluxe,1,76.6,71.23,81.93,1
+02-10-18,TX,1,,Louie Gohmert,R,TRUE,deluxe,1,70.81,65.58,75.97,1
+02-10-18,TX,2,,Dan Crenshaw,R,FALSE,deluxe,0.9469,54.39,49.2,59.53,1
+02-10-18,TX,3,,Van Taylor,R,FALSE,deluxe,0.9949,59.1,53.86,64.31,1
+02-10-18,TX,4,,John Ratcliffe,R,TRUE,deluxe,1,74.34,69.23,79.45,1
+02-10-18,TX,5,,Lance Gooden,R,FALSE,deluxe,0.9995,64.98,60.17,69.79,1
+02-10-18,TX,6,,Ron Wright,R,FALSE,deluxe,0.9805,55.78,51.16,60.27,1
+02-10-18,TX,7,,John Culberson,R,TRUE,deluxe,0.5326,50.29,45.9,54.65,1
+02-10-18,TX,8,,Kevin Brady,R,TRUE,deluxe,1,75.78,70.73,80.84,1
+02-10-18,TX,9,,Al Green,D,TRUE,deluxe,1,84.8,77.68,91.31,1
+02-10-18,TX,10,,Michael T. McCaul,R,TRUE,deluxe,0.9789,56.47,51.3,61.59,1
+02-10-18,TX,11,,K. Michael Conaway,R,TRUE,deluxe,1,78.25,73.13,83.33,1
+02-10-18,TX,12,,Kay Granger,R,TRUE,deluxe,0.9998,66.27,61.15,71.31,1
+02-10-18,TX,13,,Mac Thornberry,R,TRUE,deluxe,1,79.84,74.94,84.71,1
+02-10-18,TX,14,,Randy Weber,R,TRUE,deluxe,0.9918,58.76,53.52,63.92,1
+02-10-18,TX,15,,Vicente Gonzalez,D,TRUE,deluxe,0.9994,64.87,59.46,70.25,1
+02-10-18,TX,16,,Veronica Escobar,D,FALSE,deluxe,1,69.71,64.22,75.19,1
+02-10-18,TX,17,,Bill Flores,R,TRUE,deluxe,0.9974,60.28,55.25,65.2,1
+02-10-18,TX,18,,Sheila Jackson Lee,D,TRUE,deluxe,1,75.61,70.21,81.04,1
+02-10-18,TX,19,,Jodey Arrington,R,TRUE,deluxe,1,76.75,71.86,81.68,1
+02-10-18,TX,20,,Joaquin Castro,D,TRUE,deluxe,0.9997,81.39,73.93,88.33,1
+02-10-18,TX,21,,Chip Roy,R,FALSE,deluxe,0.8963,52.01,46.84,57.1,1
+02-10-18,TX,22,,Pete Olson,R,TRUE,deluxe,0.9179,53.98,48.63,59.22,1
+02-10-18,TX,23,,Will Hurd,R,TRUE,deluxe,0.5673,49.48,44.3,54.68,1
+02-10-18,TX,24,,Kenny Marchant,R,TRUE,deluxe,0.9761,57.77,52.91,62.61,1
+02-10-18,TX,25,,Roger Williams,R,TRUE,deluxe,0.9752,56.45,51.26,61.58,1
+02-10-18,TX,26,,Michael Burgess,R,TRUE,deluxe,0.9994,63.81,58.59,68.96,1
+02-10-18,TX,27,,Michael Cloud,R,TRUE,deluxe,0.9981,61.43,56.07,66.75,1
+02-10-18,TX,28,,Henry Cuellar,D,TRUE,deluxe,0.9997,80.58,73.08,87.7,1
+02-10-18,TX,29,,Sylvia R. Garcia,D,FALSE,deluxe,1,71.33,65.37,77.28,1
+02-10-18,TX,30,,Eddie Bernice Johnson,D,TRUE,deluxe,0.9999,88.05,81.61,93.78,1
+02-10-18,TX,31,,John Carter,R,TRUE,deluxe,0.9226,53.66,48.9,58.34,1
+02-10-18,TX,32,,Pete Sessions,R,TRUE,deluxe,0.6957,50.53,45.86,55.16,1
+02-10-18,TX,33,,Marc Veasey,D,TRUE,deluxe,1,73.62,67.85,79.44,1
+02-10-18,TX,34,,Filemon Vela,D,TRUE,deluxe,0.9998,67.65,62.17,73.08,1
+02-10-18,TX,35,,Lloyd Doggett,D,TRUE,deluxe,0.9999,68.45,63.07,73.8,1
+02-10-18,TX,36,,Brian Babin,R,TRUE,deluxe,1,70.8,65.85,75.79,1
+02-10-18,UT,1,,Rob Bishop,R,TRUE,deluxe,0.9998,61.65,55.83,67.32,1
+02-10-18,UT,2,,Chris Stewart,R,TRUE,deluxe,0.9926,55.35,49.85,60.75,1
+02-10-18,UT,3,,John R. Curtis,R,TRUE,deluxe,0.9999,63.12,57.31,68.85,1
+02-10-18,UT,4,,Mia Love,R,TRUE,deluxe,0.8313,53.2,48.87,57.51,1
+02-10-18,VA,1,,Robert J. Wittman,R,TRUE,deluxe,0.9912,59.76,54.95,64.55,1
+02-10-18,VA,2,,Scott Taylor,R,TRUE,deluxe,0.7039,51.58,47.74,55.41,1
+02-10-18,VA,3,,Robert C. Scott,D,TRUE,deluxe,1,100,100,100,1
+02-10-18,VA,4,,A. Donald McEachin,D,TRUE,deluxe,0.9995,63.41,58.31,68.45,1
+02-10-18,VA,5,,Denver Riggleman,R,FALSE,deluxe,0.6232,51.16,46.21,56.14,1
+02-10-18,VA,6,,Ben Cline,R,FALSE,deluxe,0.9978,62.1,57.31,66.86,1
+02-10-18,VA,7,,Dave Brat,R,TRUE,deluxe,0.5868,49.35,45.24,53.41,1
+02-10-18,VA,8,,Don Beyer,D,TRUE,deluxe,1,75.96,70.96,81.01,1
+02-10-18,VA,9,,Morgan Griffith,R,TRUE,deluxe,0.9961,61.5,56.36,66.64,1
+02-10-18,VA,10,,Jennifer Wexton,D,FALSE,deluxe,0.7917,52.73,48.36,57.2,1
+02-10-18,VA,11,,Gerald E. Connolly,D,TRUE,deluxe,0.9999,67.36,62.08,72.62,1
+02-10-18,VT,1,,Peter Welch,D,TRUE,deluxe,1,77.09,71.95,82.19,1
+02-10-18,WA,1,,Suzan DelBene,D,TRUE,deluxe,0.9989,63.54,58.62,68.54,1
+02-10-18,WA,2,,Rick Larsen,D,TRUE,deluxe,0.9995,77.28,69.68,84.57,1
+02-10-18,WA,3,,Jaime Herrera Beutler,R,TRUE,deluxe,0.8619,53.72,49.31,58.19,1
+02-10-18,WA,4,,Dan Newhouse,R,TRUE,deluxe,0.9972,62.07,57.02,67.11,1
+02-10-18,WA,5,,Cathy McMorris Rodgers,R,TRUE,deluxe,0.8112,52.92,48.63,57.19,1
+02-10-18,WA,6,,Derek Kilmer,D,TRUE,deluxe,0.9998,66.29,61.38,71.21,1
+02-10-18,WA,7,,Pramila Jayapal,D,TRUE,deluxe,1,83.95,79.45,88.49,1
+02-10-18,WA,8,,Kim Schrier,D,FALSE,deluxe,0.6047,50.87,46.57,55.19,1
+02-10-18,WA,9,,Adam Smith,D,TRUE,deluxe,0.9821,61.31,54.36,68.23,1
+02-10-18,WA,10,,Denny Heck,D,TRUE,deluxe,0.9996,64.67,59.86,69.53,1
+02-10-18,WI,1,,Bryan Steil,R,FALSE,deluxe,0.816,51.25,46.95,55.47,1
+02-10-18,WI,2,,Mark Pocan,D,TRUE,deluxe,1,100,100,100,1
+02-10-18,WI,3,,Ron Kind,D,TRUE,deluxe,0.997,61.98,57.06,66.85,1
+02-10-18,WI,4,,Gwen Moore,D,TRUE,deluxe,1,75.13,70.05,80.16,1
+02-10-18,WI,5,,F. James Sensenbrenner,R,TRUE,deluxe,0.9917,60.07,55,65.06,1
+02-10-18,WI,6,,Glenn Grothman,R,TRUE,deluxe,0.8568,54.27,49.11,59.42,1
+02-10-18,WI,7,,Sean P. Duffy,R,TRUE,deluxe,0.9949,59.47,54.2,64.66,1
+02-10-18,WI,8,,Mike Gallagher,R,TRUE,deluxe,0.9965,61.42,56.46,66.33,1
+02-10-18,WV,1,,David McKinley,R,TRUE,deluxe,0.9995,64.25,59.39,69.16,1
+02-10-18,WV,2,,Alex Mooney,R,TRUE,deluxe,0.9778,55.79,50.4,61.1,1
+02-10-18,WV,3,,Carol Miller,R,FALSE,deluxe,0.8568,54.61,49.01,60.2,1
+02-10-18,WY,1,,Liz Cheney,R,TRUE,deluxe,1,66.47,61.01,71.94,1
